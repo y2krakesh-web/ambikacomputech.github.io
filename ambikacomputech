@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Training Institute</title>
+<style>
+body{
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#111;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+section{
+padding:40px;
+text-align:center;
+}
+
+.btn{
+background:#ff6600;
+padding:12px 20px;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Indian National Youth Computer</h1>
+<p>Professional Computer Training Center</p>
+</header>
+
+<section>
+<h2>Learn Computer Skills for Your Future</h2>
+<p>Courses: MS Word | Excel | Digital Marketing | Spoken English</p>
+
+<a class="btn" href="#">Contact Us</a>
+</section>
+
+<footer>
+<p>© 2026 Indian National Youth Computer</p>
+</footer>
+
+</body>
+</html>
